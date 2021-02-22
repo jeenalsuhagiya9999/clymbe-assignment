@@ -1,0 +1,25 @@
+
+[
+  {
+    
+    "id": 1,
+    "name": "Musician",
+    "color": "Green"
+    
+},{
+    
+    "id": 2,
+    "name": "Food Scientist",
+    "color": "yellow"
+    
+},
+{
+   
+    "id":3,
+    "name": "Carpenter",
+    "color": "red"
+    
+}
+]
+
+
